@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{12E9E74F-A762-4F91-A7C3-946C7E4D7697}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CulhaAPI-MVC", "CulhaAPI-MVC\CulhaAPI-MVC.csproj", "{295C112F-D52E-4BCE-98E3-E553FAEE6257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E9E74F-A762-4F91-A7C3-946C7E4D7697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E9E74F-A762-4F91-A7C3-946C7E4D7697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E9E74F-A762-4F91-A7C3-946C7E4D7697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E9E74F-A762-4F91-A7C3-946C7E4D7697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295C112F-D52E-4BCE-98E3-E553FAEE6257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295C112F-D52E-4BCE-98E3-E553FAEE6257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295C112F-D52E-4BCE-98E3-E553FAEE6257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295C112F-D52E-4BCE-98E3-E553FAEE6257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EAE1E69-7EA0-4735-A338-8D0DC9C6B868}
+	EndGlobalSection
+EndGlobal
